@@ -2,4 +2,4 @@
 
 - made with svelte
 - [preveiw here](https://example.com)
-- thanks to Traversy Media on [Youtube]() for making this possibe
+- thanks to Traversy Media on [Youtube](https://youtu.be/3TVy6GdtNuQ) for making this possible
